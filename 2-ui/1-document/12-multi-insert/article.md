@@ -89,10 +89,10 @@ elem.insertAdjacentHTML(where, html);
 `where`
 :Куда по отношению к `elem` вставлять строку. Всего четыре варианта:
 
-    1. `beforeBegin` -- перед `elem`.
-    2. `afterBegin` -- внутрь `elem`, в самое начало.
-    3. `beforeEnd` -- внутрь `elem`, в конец.
-    4. `afterEnd` -- после `elem`.
+   1. `beforeBegin` -- перед `elem`.
+   2. `afterBegin` -- внутрь `elem`, в самое начало.
+   3. `beforeEnd` -- внутрь `elem`, в конец.
+   4. `afterEnd` -- после `elem`.
 
 ![](insertAdjacentHTML.png)
 
